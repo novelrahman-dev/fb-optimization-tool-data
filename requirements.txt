@@ -1,0 +1,5 @@
+snowflake-connector-python>=3.6.0
+pandas>=2.2.2
+pyarrow>=16.0.0
+
+requests>=2.32.0
